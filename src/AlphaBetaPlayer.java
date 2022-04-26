@@ -5,6 +5,10 @@
  * 			Madeline Sinkovic
  *
  */
+
+
+//We looked at this together and could not debug!!
+
 public class AlphaBetaPlayer implements Player
 {
    int id;
