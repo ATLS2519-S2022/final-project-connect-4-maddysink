@@ -7,12 +7,14 @@
  * Semester:         Spring 2021
  * 
  * Author:           Daniel Szafir, daniel.szafir@colorado.edu
+ * 					Madeline Sinkovic masi2473@colorado.edu
  * 
  * Description:		 An application that allows humans and AI agents to play Connect 4
  * 					 and a Connect 4 variant where the game goes on until the board is
  * 				     completely full and the winner is the player with the most Connect 4s.
  * 
  * Written:       	 4/20/2020
+ * 					4/20/2022
  * 
  * Credits:          Based on code originally by David Martin, 2004
  **************************************************************************** */
